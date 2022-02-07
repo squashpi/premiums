@@ -1,24 +1,24 @@
 Test assignment solution.
 
 
-Environment:
+Environment:</br>
 
-Operating system - Ubuntu 20.04
-Java version - openjdk 11.0.13
+Operating system - Ubuntu 20.04 </br>
+Java version - openjdk 11.0.13 </br>
 Build tool - Gradle 7.3.3
 
 
-To build the project:
-> cd premiums
-> gradle build
+To build the project:</br>
+$ cd premiums </br>
+$ gradle build
 
 
-To run the project:
-> graddle wrapper
-> ./gradlew run
+To run the project:</br>
+$ graddle wrapper</br>
+$ ./gradlew run
 
-To run the tests:
-> gradle test
+To run the tests:</br>
+$ gradle test
 
 Test results are available at ./build/reports/tests/test/index.html
 
